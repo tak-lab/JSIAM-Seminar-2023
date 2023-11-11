@@ -30,7 +30,7 @@
 ## プログラム（仮）：
 
 [**計算の品質**](http://www.oishi.info.waseda.ac.jp/~qoc/) <br>
-講師：未定<br>
+講師：[田中 一成](https://tanaka.s-top.dev/)（早稲田大学 准教授）<br>
 題目：未定
 
 
