@@ -1,6 +1,6 @@
 # 第15回 三部会連携「応用数理セミナー」
 
-日本応用数理学会の「行列・固有値問題の解法とその応用」、「科学技術計算と数値解析」、「計算の品質」の三部会と今回は「数理設計」研究部会が連携し、学部生・大学院生、企業の研究者・技術者を対象にした、「応用数理セミナー」を実施します。初心者向きの内容を意識しております。分野外の方も気軽にご参加ください。
+日本応用数理学会の「行列・固有値問題の解法とその応用」、「科学技術計算と数値解析」、「計算の品質」の三部会と**今回は「数理設計」研究部会が連携**し、学部生・大学院生、企業の研究者・技術者を対象にした、「応用数理セミナー」を実施します。初心者向きの内容を意識しております。分野外の方も気軽にご参加ください。
 
 
 ## 開催日時および場所：
@@ -29,24 +29,33 @@
 ----------
 ## プログラム（仮）：
 
-[**計算の品質**](http://www.oishi.info.waseda.ac.jp/~qoc/) <br>
-講師：[田中 一成](https://tanaka.s-top.dev/)（早稲田大学 准教授）<br>
-題目：未定
+**10:30 — 11:00**　　Zoomミーティング開場
 
+**11:00 — 12:00**　　[**計算の品質**](http://www.oishi.info.waseda.ac.jp/~qoc/) 研究部会<br>
 
-[**行列・固有値の解法とその応用**](http://mepa.jsiam.org/) 研究部会<br>
-講師：[今倉 暁](https://www.cs.tsukuba.ac.jp/~imakura/)（筑波大学 准教授）<br>
-題目：未定
+[田中 一成](https://tanaka.s-top.dev/)（早稲田大学 准教授）<br>
+_深層学習と精度保証付き数値計算：導入と微分方程式への応用を中心に_
 
+**12:00 — 13:20**　　休憩
 
-[**科学技術計算と数値解析**](http://scna.jsiam.org/) 研究部会<br>
-講師：[土屋 卓也](https://researchmap.jp/read0171441)（大阪大学 招聘研究員、JSIAMフェロー）<br>
-題目：有限要素法の数学的基礎理論の最近の話題について
+**13:20 — 14:20**　　[**行列・固有値の解法とその応用**](http://mepa.jsiam.org/) 研究部会<br>
 
+[今倉 暁](https://www.cs.tsukuba.ac.jp/~imakura/)（筑波大学 准教授）<br>
+_未定_
 
-[**数理設計**](https://www-mmds.sigmath.es.osaka-u.ac.jp/faculty/personal/Jsiam/) 研究部会<br>
-講師：[倉橋 貴彦](https://mcweb.nagaokaut.ac.jp/~kurahashi/index.php)（長岡技術科学大学 教授）<br>
-題目：工学分野における逆解析の事例紹介
+**14:20 — 14:40**　　休憩
+
+**14:40 — 15:40**　　[**科学技術計算と数値解析**](http://scna.jsiam.org/) 研究部会<br>
+
+[土屋 卓也](https://researchmap.jp/read0171441)（大阪大学 招聘研究員、JSIAMフェロー）<br>
+_有限要素法の数学的基礎理論の最近の話題について_
+
+**15:40 — 16:00**　　休憩
+
+**16:00 — 17:00**　　[**数理設計**](https://www-mmds.sigmath.es.osaka-u.ac.jp/faculty/personal/Jsiam/) 研究部会<br>
+
+[倉橋 貴彦](https://mcweb.nagaokaut.ac.jp/~kurahashi/index.php)（長岡技術科学大学 教授）<br>
+_工学分野における逆解析の事例紹介_
 
 
 ----------
@@ -58,7 +67,7 @@
 
 **更新履歴：**
 - 2023.11.10 Webページの公開
-- 2023.11.13 プログラム内容の更新
+- 2023.11.20 プログラム内容の更新
 
 
 **過去のセミナー：** [2022](http://mepa.jsiam.org/?page_id=2264) / [2021](https://sites.google.com/view/jsiam-seminar-2021) / [2020](https://tak-lab.github.io/JSIAM-Seminar-2020/) / [2019](https://na.cs.tsukuba.ac.jp/mepa/?page_id=1689) / [2018](https://sites.google.com/view/jsiam-seminar-2018/) / [2017](http://www.google.com/url?q=http%3A%2F%2Fwww.oishi.info.waseda.ac.jp%2Fseminar%2Fjsiam_seminar_2017.html&sa=D&sntz=1&usg=AFQjCNGxhw58C7tHY6ZwdPB6zyX689wZlA) / [2016](http://www.google.com/url?q=http%3A%2F%2Fwww.sr3.t.u-tokyo.ac.jp%2Fjsiam%2Fjsiamseminar20161227&sa=D&sntz=1&usg=AFQjCNHH5bHtoFQrn6vIHRLR9HZAmAV8VA) / [2015](http://www.google.com/url?q=http%3A%2F%2Fwww.sr3.t.u-tokyo.ac.jp%2Fjsiam%2Fjsiamseminar20151224&sa=D&sntz=1&usg=AFQjCNHwIl8_oIqnyNHR4MUYOH4SIB4qGw) / [2014](http://www.google.com/url?q=http%3A%2F%2Fwww.oishi.info.waseda.ac.jp%2F~3ams2014%2F&sa=D&sntz=1&usg=AFQjCNEqn6da-5pCROI9hjeovyHIh5eOFQ) / [2013](http://www.sr3.t.u-tokyo.ac.jp/jsiam/jsiamseminar20131227) / [2012](http://www.sr3.t.u-tokyo.ac.jp/jsiam/jsiamseminar20121225) / [2011](http://www.oishi.info.waseda.ac.jp/~3ams2011/) / [2010](http://www.cs.tsukuba.ac.jp/~sakurai/Seminar20101126.html) / [2009](http://www.jsiam.org/modules/eguide01/event.php?eid=63)
