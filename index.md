@@ -16,7 +16,7 @@
 
 ## 主催：
 - [日本応用数理学会](https://jsiam.org/)
-- [行列・固有値の解法とその応用](http://mepa.jsiam.org/) 研究部会
+- [行列・固有値問題の解法とその応用](http://mepa.jsiam.org/) 研究部会
 - [科学技術計算と数値解析](http://scna.jsiam.org/) 研究部会
 - [計算の品質](http://www.oishi.info.waseda.ac.jp/~qoc/) 研究部会
 
@@ -62,7 +62,7 @@
 
 **更新履歴：**
 - 2023.11.10 Webページの公開
-- 2023.11.20 プログラム内容の更新
+- 2023.11.30 プログラム内容の更新
 
 
 **過去のセミナー：** [2022](http://mepa.jsiam.org/?page_id=2264) / [2021](https://sites.google.com/view/jsiam-seminar-2021) / [2020](https://tak-lab.github.io/JSIAM-Seminar-2020/) / [2019](https://na.cs.tsukuba.ac.jp/mepa/?page_id=1689) / [2018](https://sites.google.com/view/jsiam-seminar-2018/) / [2017](http://www.google.com/url?q=http%3A%2F%2Fwww.oishi.info.waseda.ac.jp%2Fseminar%2Fjsiam_seminar_2017.html&sa=D&sntz=1&usg=AFQjCNGxhw58C7tHY6ZwdPB6zyX689wZlA) / [2016](http://www.google.com/url?q=http%3A%2F%2Fwww.sr3.t.u-tokyo.ac.jp%2Fjsiam%2Fjsiamseminar20161227&sa=D&sntz=1&usg=AFQjCNHH5bHtoFQrn6vIHRLR9HZAmAV8VA) / [2015](http://www.google.com/url?q=http%3A%2F%2Fwww.sr3.t.u-tokyo.ac.jp%2Fjsiam%2Fjsiamseminar20151224&sa=D&sntz=1&usg=AFQjCNHwIl8_oIqnyNHR4MUYOH4SIB4qGw) / [2014](http://www.google.com/url?q=http%3A%2F%2Fwww.oishi.info.waseda.ac.jp%2F~3ams2014%2F&sa=D&sntz=1&usg=AFQjCNEqn6da-5pCROI9hjeovyHIh5eOFQ) / [2013](http://www.sr3.t.u-tokyo.ac.jp/jsiam/jsiamseminar20131227) / [2012](http://www.sr3.t.u-tokyo.ac.jp/jsiam/jsiamseminar20121225) / [2011](http://www.oishi.info.waseda.ac.jp/~3ams2011/) / [2010](http://www.cs.tsukuba.ac.jp/~sakurai/Seminar20101126.html) / [2009](http://www.jsiam.org/modules/eguide01/event.php?eid=63)
