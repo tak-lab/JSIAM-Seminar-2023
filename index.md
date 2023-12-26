@@ -46,13 +46,14 @@ _行列計算による機械学習：入門と応用_
 **14:40 — 15:40**　　[**科学技術計算と数値解析**](http://scna.jsiam.org/) 研究部会<br>
 [土屋 卓也](https://researchmap.jp/read0171441)（大阪大学 招聘研究員、JSIAMフェロー）<br>
 _有限要素法の数学的基礎理論の最近の話題について_
+>講演資料：[oyo-suri2023.pdf](https://github.com/tak-lab/JSIAM-Seminar-2023/raw/master/oyo-suri2023.pdf)
 
 **15:40 — 16:00**　　休憩
 
 **16:00 — 17:00**　　[**数理設計**](https://www-mmds.sigmath.es.osaka-u.ac.jp/faculty/personal/Jsiam/) 研究部会<br>
 [倉橋 貴彦](https://mcweb.nagaokaut.ac.jp/~kurahashi/index.php)（長岡技術科学大学 教授）<br>
 _工学分野における逆解析の事例紹介_
-
+>講演資料：[202312_JSIAM３部会連携応用数理セミナー_数理設計_倉橋.pdf](https://github.com/tak-lab/JSIAM-Seminar-2023/raw/master/202312_JSIAM３部会連携応用数理セミナー_数理設計_倉橋.pdf)
 
 ----------
 ## 注意：
@@ -64,7 +65,7 @@ _工学分野における逆解析の事例紹介_
 **更新履歴：**
 - 2023.11.10 Webページの公開
 - 2023.11.30 プログラム内容の更新
-- 2023.12.25 当日の講義資料の追加
+- 2023.12.26 当日の講義資料の追加
 
 
 **過去のセミナー：** [2022](http://mepa.jsiam.org/?page_id=2264) / [2021](https://sites.google.com/view/jsiam-seminar-2021) / [2020](https://tak-lab.github.io/JSIAM-Seminar-2020/) / [2019](https://na.cs.tsukuba.ac.jp/mepa/?page_id=1689) / [2018](https://sites.google.com/view/jsiam-seminar-2018/) / [2017](http://www.google.com/url?q=http%3A%2F%2Fwww.oishi.info.waseda.ac.jp%2Fseminar%2Fjsiam_seminar_2017.html&sa=D&sntz=1&usg=AFQjCNGxhw58C7tHY6ZwdPB6zyX689wZlA) / [2016](http://www.google.com/url?q=http%3A%2F%2Fwww.sr3.t.u-tokyo.ac.jp%2Fjsiam%2Fjsiamseminar20161227&sa=D&sntz=1&usg=AFQjCNHH5bHtoFQrn6vIHRLR9HZAmAV8VA) / [2015](http://www.google.com/url?q=http%3A%2F%2Fwww.sr3.t.u-tokyo.ac.jp%2Fjsiam%2Fjsiamseminar20151224&sa=D&sntz=1&usg=AFQjCNHwIl8_oIqnyNHR4MUYOH4SIB4qGw) / [2014](http://www.google.com/url?q=http%3A%2F%2Fwww.oishi.info.waseda.ac.jp%2F~3ams2014%2F&sa=D&sntz=1&usg=AFQjCNEqn6da-5pCROI9hjeovyHIh5eOFQ) / [2013](http://www.sr3.t.u-tokyo.ac.jp/jsiam/jsiamseminar20131227) / [2012](http://www.sr3.t.u-tokyo.ac.jp/jsiam/jsiamseminar20121225) / [2011](http://www.oishi.info.waseda.ac.jp/~3ams2011/) / [2010](http://www.cs.tsukuba.ac.jp/~sakurai/Seminar20101126.html) / [2009](http://www.jsiam.org/modules/eguide01/event.php?eid=63)
