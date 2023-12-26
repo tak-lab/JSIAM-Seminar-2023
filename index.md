@@ -46,14 +46,14 @@ _行列計算による機械学習：入門と応用_
 **14:40 — 15:40**　　[**科学技術計算と数値解析**](http://scna.jsiam.org/) 研究部会<br>
 [土屋 卓也](https://researchmap.jp/read0171441)（大阪大学 招聘研究員、JSIAMフェロー）<br>
 _有限要素法の数学的基礎理論の最近の話題について_
->講演資料：[oyo-suri2023.pdf](https://github.com/tak-lab/JSIAM-Seminar-2023/raw/master/oyo-suri2023.pdf)
+>講演資料：[oyo-suri2023.pdf](https://github.com/tak-lab/JSIAM-Seminar-2023/blob/6b23fae6d42435f0d166008c7d3555cb92b7435d/oyo-suri2023.pdf)
 
 **15:40 — 16:00**　　休憩
 
 **16:00 — 17:00**　　[**数理設計**](https://www-mmds.sigmath.es.osaka-u.ac.jp/faculty/personal/Jsiam/) 研究部会<br>
 [倉橋 貴彦](https://mcweb.nagaokaut.ac.jp/~kurahashi/index.php)（長岡技術科学大学 教授）<br>
 _工学分野における逆解析の事例紹介_
->講演資料：[202312_JSIAM３部会連携応用数理セミナー_数理設計_倉橋.pdf](https://github.com/tak-lab/JSIAM-Seminar-2023/raw/master/202312_JSIAM３部会連携応用数理セミナー_数理設計_倉橋.pdf)
+>講演資料：[202312_JSIAM３部会連携応用数理セミナー_数理設計_倉橋.pdf](https://github.com/tak-lab/JSIAM-Seminar-2023/blob/6b23fae6d42435f0d166008c7d3555cb92b7435d/202312_JSIAM%EF%BC%93%E9%83%A8%E4%BC%9A%E9%80%A3%E6%90%BA%E5%BF%9C%E7%94%A8%E6%95%B0%E7%90%86%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC_%E6%95%B0%E7%90%86%E8%A8%AD%E8%A8%88_%E5%80%89%E6%A9%8B.pdf)
 
 ----------
 ## 注意：
