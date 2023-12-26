@@ -33,29 +33,28 @@
 **11:00 — 12:00**　　[**計算の品質**](http://www.oishi.info.waseda.ac.jp/~qoc/) 研究部会<br>
 [田中 一成](https://tanaka.s-top.dev/)（早稲田大学 准教授）<br>
 _深層学習と精度保証付き数値計算：導入と微分方程式への応用を中心に_
-> 講演資料：[https://pepper-dragonfly-981.notion.site/2023-7f2212a3d70341be9f449356bbd2fe30](https://pepper-dragonfly-981.notion.site/2023-7f2212a3d70341be9f449356bbd2fe30)
+>講演資料は参加者にリンクを共有します。
 
 **12:00 — 13:20**　　休憩
 
 **13:20 — 14:20**　　[**行列・固有値問題の解法とその応用**](http://mepa.jsiam.org/) 研究部会<br>
 [今倉 暁](https://www.cs.tsukuba.ac.jp/~imakura/)（筑波大学 准教授）<br>
 _行列計算による機械学習：入門と応用_
->講演資料：[応用数理セミナー_今倉.pdf](https://github.com/tak-lab/JSIAM-Seminar-2023/blob/3b9226dee2a93a6de1d7ac36b83430e3a2283749/応用数理セミナー_今倉.pdf)
-
+>講演資料は参加者にリンクを共有します。
 
 **14:20 — 14:40**　　休憩
 
 **14:40 — 15:40**　　[**科学技術計算と数値解析**](http://scna.jsiam.org/) 研究部会<br>
 [土屋 卓也](https://researchmap.jp/read0171441)（大阪大学 招聘研究員、JSIAMフェロー）<br>
 _有限要素法の数学的基礎理論の最近の話題について_
->講演資料：[oyo-suri2023.pdf](https://github.com/tak-lab/JSIAM-Seminar-2023/blob/6b23fae6d42435f0d166008c7d3555cb92b7435d/oyo-suri2023.pdf)
+>講演資料は参加者にリンクを共有します。
 
 **15:40 — 16:00**　　休憩
 
 **16:00 — 17:00**　　[**数理設計**](https://www-mmds.sigmath.es.osaka-u.ac.jp/faculty/personal/Jsiam/) 研究部会<br>
 [倉橋 貴彦](https://mcweb.nagaokaut.ac.jp/~kurahashi/index.php)（長岡技術科学大学 教授）<br>
 _工学分野における逆解析の事例紹介_
->講演資料：[202312_JSIAM３部会連携応用数理セミナー_数理設計_倉橋.pdf](https://github.com/tak-lab/JSIAM-Seminar-2023/blob/6b23fae6d42435f0d166008c7d3555cb92b7435d/202312_JSIAM３部会連携応用数理セミナー_数理設計_倉橋.pdf)
+>講演資料は参加者にリンクを共有します。
 
 ----------
 ## 注意：
