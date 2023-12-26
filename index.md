@@ -40,6 +40,8 @@ _深層学習と精度保証付き数値計算：導入と微分方程式への�
 **13:20 — 14:20**　　[**行列・固有値問題の解法とその応用**](http://mepa.jsiam.org/) 研究部会<br>
 [今倉 暁](https://www.cs.tsukuba.ac.jp/~imakura/)（筑波大学 准教授）<br>
 _行列計算による機械学習：入門と応用_
+>講演資料：[応用数理セミナー_今倉.pdf](https://github.com/tak-lab/JSIAM-Seminar-2023/blob/3b9226dee2a93a6de1d7ac36b83430e3a2283749/応用数理セミナー_今倉.pdf)
+
 
 **14:20 — 14:40**　　休憩
 
